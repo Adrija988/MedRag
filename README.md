@@ -9,4 +9,6 @@ It retrieves relevant medical context from a dataset and generates accurate answ
 4. Sentence Transformers
 5. HuggingFace
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8eea47e5-88d8-4abb-9bd6-846e53d7db98" />
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/d3d31c63-e360-41ac-9122-9babf488434a" />
+
+
